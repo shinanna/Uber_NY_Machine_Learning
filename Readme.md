@@ -1,4 +1,4 @@
-<img src="https://github.com/shinanna/Uber_NY_Machine_Learning/blob/main/images/Uber_Logo_Black.png" width="30" height="30">
+<img src="https://github.com/shinanna/Uber_NY_Machine_Learning/blob/main/images/Uber_Logo_Black.png" height="100">
 
 
 ### Unsupervised Machine Learning on Uber NY Dataset
