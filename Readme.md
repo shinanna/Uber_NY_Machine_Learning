@@ -1,5 +1,4 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
-
+<img src="https://github.com/shinanna/Uber_NY_Machine_Learning/blob/main/images/Uber_Logo_Black.png" height="100">
 
 
 ### Unsupervised Machine Learning on Uber NY Dataset
